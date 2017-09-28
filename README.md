@@ -1,3 +1,5 @@
 # postdoc_retreat2017
-See the Wiki page for details on the workshop program. 
-See the Issues page for ideas and discussions. 
+The Wiki page contains details on the workshop program. 
+The Issues page for ideas and discussions. 
+See the links above for presentation slides from the workshop. 
+
